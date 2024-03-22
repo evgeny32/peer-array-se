@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "<repository_url>"
+    "url": "https://github.com/evgeny32/peer-array-se"
   },
   "dependencies": {
     "lodash": "^4.17.21",
@@ -20,7 +20,7 @@
     "meta-magics-wear": "1.0.0",
     "rely-luminary-insights": "1.0.0",
     "quantum-talk-helpers": "1.0.0",
-	"lapuhovlamel-image-utils": "1.1.4",
+    "lapuhovlamel-image-utils": "1.1.4",
     "random-fail": "1.0.0",
     "image-utils-pose": "1.0.0",
     "soulful-tools-stop": "1.0.0"
@@ -28,7 +28,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "<repository_url>/issues"
+    "url": "https://github.com/evgeny32/peer-array-se/issues"
   },
-  "homepage": "<repository_url>#readme"
+  "homepage": "https://github.com/evgeny32/peer-array-se#readme"
 }
